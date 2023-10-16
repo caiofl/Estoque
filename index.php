@@ -10,7 +10,7 @@ include_once "Entidades/Produto.php";
 
 <meta charset="UTF-8">
 <div class="container">
-<title>Estoque de Produtos </title>
+<title>Estoque daae Produtos </title>
 
 <center><h2>Estoque de Produtos</h2></center>
 
